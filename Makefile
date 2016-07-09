@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 10
 SUBLEVEL = 84
-EXTRAVERSION = Hercules_shamrock
+EXTRAVERSION = Hercules_beta-1.0
 NAME = TOSSUG Baby Fish
 
 # *DOCUMENTATION*
